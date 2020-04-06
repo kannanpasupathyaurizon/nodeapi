@@ -21,3 +21,12 @@ Swagger is a specification and complete framework implementation for describing,
 
 ## Importing
 ` const swaggerUi = require('swagger-ui-express'); `
+
+# Mocha
+Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+
+# Postgres
+node-postgres is a collection of node.js modules for interfacing with PostgreSQL database.
+
+## Installing
+npm install pg
