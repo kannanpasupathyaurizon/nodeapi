@@ -1,4 +1,4 @@
-# Node API demo with Swagger and Postgres
+# Node API demo with Swagger, Mocha and Postgres
 
 Created application of Node API using below modules:
 
@@ -15,3 +15,9 @@ Below files and folders are used in the application:
 - routes: Define the app routes, with HTTP methods. For example, in the application two routes are defined '/employeelist' and '/addemployee'.
 - middlewares: We can write middlewares to interpret all incoming requests before moving to the route handler. 
 - mocha: Here we can write all the unit tests or acceptance tests for the API server.
+
+# Swagger UI
+Auto-generated swagger-ui generated from express based on a swagger.json file
+
+## Importing
+const swaggerUi = require('swagger-ui-express');
