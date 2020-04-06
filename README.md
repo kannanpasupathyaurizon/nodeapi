@@ -11,29 +11,19 @@ Created application of Node API using below modules:
 Express is a flexible Node.js web application framework that provides a robust set of features for web applications.
 Below files and folders are used in the application:
 
-├── Root
-   
-   │   ├── src
-   
-   │   │   ├── employee.js
-   
-   │   ├── routes
-   
-   │   │  ├── routes.js
-   
-   │   ├── swagger
-   
-   │   │  ├── swagger.json
-   
-   │   ├── mocha
-   
-   │   │   ├── test.js
-   
-   │   ├── README.md
-   
-   ├── package.json
-   
-   ├── index.js
+app
+└──  src
+&nbsp;&nbsp;&nbsp;&nbsp;└──  employee.js
+└── routes
+&nbsp;&nbsp;&nbsp;&nbsp;└──  routes.js
+└── swagger
+&nbsp;&nbsp;&nbsp;&nbsp;└──   swagger.js
+└── mocha
+&nbsp;&nbsp;&nbsp;&nbsp;└──  test.js
+└──  index.js
+└──  package.json
+└──  README.md
+
    
 - index.js: Acts as the main file of the project where we initialize the app and other elements of the project.
 - package.json: Takes care of the dependencies, the scripts to run with the npm command, and the version of project.
