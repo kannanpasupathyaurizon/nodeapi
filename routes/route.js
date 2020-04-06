@@ -12,7 +12,7 @@ var options = {
 };
 
 // Middleware that is specific to this router
-router.use('/api', swaggerUi.serve, swaggerUi.setup(swaggerDocument, options));
+router.use('/employeeapi', swaggerUi.serve, swaggerUi.setup(swaggerDocument, options));
 
 // Define the route to display all the employees from db
 router.get("/employeelist", db.employeelist);
