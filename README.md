@@ -17,7 +17,7 @@ Below files and folders are used in the application:
 - mocha: Here we can write all the unit tests or acceptance tests for the API server.
 
 # Swagger UI
-Auto-generated swagger-ui generated from express based on a swagger.json file
+Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services. It is an auto-generated swagger-ui generated from express based on a swagger.json file
 
 ## Importing
 const swaggerUi = require('swagger-ui-express');
