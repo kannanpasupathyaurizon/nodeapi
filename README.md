@@ -12,11 +12,8 @@ Express is a flexible Node.js web application framework that provides a robust s
 Below files and folders are used in the application:
 
 ├── Root
-
    │   ├── `src`
-   
    │   │   ├── employee.js  
-   
    │   ├── `routes`
    
    │   │  ├── routes.js
