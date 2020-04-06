@@ -34,3 +34,7 @@ node-postgres is a collection of node.js modules for interfacing with PostgreSQL
 `
 npm install pg
 `
+## Features
+- Connection pooling
+- Parameterized queries
+- Named statements
