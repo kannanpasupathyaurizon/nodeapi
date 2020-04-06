@@ -11,7 +11,7 @@ Created application of Node API using below modules:
 Express is a flexible Node.js web application framework that provides a robust set of features for web applications.
 Below files and folders are used in the application:
 
-app <br />
+root <br />
 └──  src <br />
 &nbsp;&nbsp;&nbsp;&nbsp;└──  employee.js <br />
 └── routes <br />
