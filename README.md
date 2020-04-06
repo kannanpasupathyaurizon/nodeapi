@@ -20,4 +20,4 @@ Below files and folders are used in the application:
 Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services. It is an auto-generated swagger-ui generated from express based on a swagger.json file
 
 ## Importing
-const swaggerUi = require('swagger-ui-express');
+` const swaggerUi = require('swagger-ui-express'); `
