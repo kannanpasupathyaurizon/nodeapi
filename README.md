@@ -13,7 +13,9 @@ Below files and folders are used in the application:
 
 ├── Root
    │   ├── `src`
-   │   │   ├── employee.js  
+   
+   │   │   ├── employee.js
+   
    │   ├── `routes`
    
    │   │  ├── routes.js
@@ -23,9 +25,13 @@ Below files and folders are used in the application:
    │   │  ├── swagger.json
    
    │   ├── `mocha`
+   
    │   │   ├── test.js
+   
    │   ├── README.md
+   
    ├── package.json
+   
    ├── `index.js`
    
 - index.js: Acts as the main file of the project where we initialize the app and other elements of the project.
