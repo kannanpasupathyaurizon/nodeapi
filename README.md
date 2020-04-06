@@ -20,7 +20,9 @@ Below files and folders are used in the application:
 Swagger is a specification and complete framework implementation for describing, producing, consuming, and visualizing RESTful web services. It is an auto-generated swagger-ui generated from express based on a swagger.json file
 
 ## Importing
-` const swaggerUi = require('swagger-ui-express'); `
+` 
+const swaggerUi = require('swagger-ui-express'); 
+`
 
 # Mocha
 Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
@@ -29,4 +31,6 @@ Mocha tests run serially, allowing for flexible and accurate reporting, while ma
 node-postgres is a collection of node.js modules for interfacing with PostgreSQL database.
 
 ## Installing
+`
 npm install pg
+`
